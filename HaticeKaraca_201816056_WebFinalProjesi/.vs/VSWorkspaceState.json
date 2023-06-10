@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookShoppingCartMvcUI",
+    "\\BookShoppingCartMvcUI\\Controllers",
+    "\\BookShoppingCartMvcUI\\Data",
+    "\\BookShoppingCartMvcUI\\Models",
+    "\\BookShoppingCartMvcUI\\Views",
+    "\\BookShoppingCartMvcUI\\Views\\Home",
+    "\\BookShoppingCartMvcUI\\Views\\Shared"
+  ],
+  "SelectedNode": "\\BookShoppingCartMvcUI\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}
